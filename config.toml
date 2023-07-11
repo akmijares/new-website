@@ -1,0 +1,59 @@
+# The URL the site will be built for
+base_url = "https://akmijares.ca"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# The site theme to use.
+theme = "blow"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+
+enable_search = true
+enable_sidebar = false
+enable_adsense = false
+enable_multilingue = false
+
+[extra.navbar]
+items = [
+    { lang = "en", links = [
+        { url = "/", name = "Home" },
+        { url = "/about-me", name = "About" },
+        { url = "/blog", name = "Blog" },
+    ] },
+]
+title = "akmijares"
+
+# Index page
+[extra.index]
+title = "Antonio Karlo Mijares"
+image = "img/home-page.jpg"
+image_alt = "Picture of Antonio Karlo Mijares"
+
+[extra.default_author]
+name = "Antonio Karlo Mijares"
+avatar = "https://akmijares.ca/assets/img/home-page.jpg"
+avatar_alt = "Picture of Antonio Karlo Mijares"
+
+[extra.social]
+github = "https://github.com/akmijares"
+linkedin = "https://www.linkedin.com/in/akmijares/"
+email = "antonio.karlo@akmijares.ca"
+
+[extra.favicon]
+favicon = "/icons/favicon.ico"
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+android_chrome_512 = "/icons/android-chrome-512x512.png"
+android_chrome_192 = "/icons/android-chrome-192x192.png"
+manifest = "/icons/site.webmanifest"
