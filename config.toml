@@ -28,7 +28,10 @@ items = [
     { lang = "en", links = [
         { url = "/", name = "Home" },
         { url = "/about-me", name = "About" },
+        { url = "/projects", name = "Projects" },
+        { url = "/resume", name = "Resume" },
         { url = "/blog", name = "Blog" },
+        { url = "/contact", name = "Contact" }
     ] },
 ]
 title = "akmijares"
