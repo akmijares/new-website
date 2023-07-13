@@ -30,8 +30,7 @@ items = [
         { url = "/about-me", name = "About" },
         { url = "/resume", name = "Resume" },
         { url = "/projects", name = "Projects" },
-        { url = "/blog", name = "Blog" },
-        { url = "/contact", name = "Contact" }
+        { url = "/blog", name = "Blog" }
     ] },
 ]
 title = "akmijares"
