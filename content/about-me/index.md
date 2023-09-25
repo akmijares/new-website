@@ -21,4 +21,4 @@ where I got my College Diploma in [Computer Networking and Technical Support](ht
 and an Advanced College Diploma in [Computer Systems Technology](https://www.senecacollege.ca/programs/fulltime/CTY.html).
 
 Don't know where to start? Try my [Resume](/resume), and don't hesitate to
-[contact me](/contact) for any questions!
+[contact me](mailto:antonio.karlo@akmijares.ca) for any questions!
