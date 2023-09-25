@@ -6,8 +6,6 @@ template = "reg-page.html"
 
 # About Me
 
-![A picture with my dad at Mt. Mayon, Philippines](/img/about-me.jpeg)
-
 My name is Antonio Karlo Mijares. I was born in the Philippines and
 immigrated to Canada in May 2009. I've been living here ever since.
 
@@ -22,3 +20,7 @@ and an Advanced College Diploma in [Computer Systems Technology](https://www.sen
 
 Don't know where to start? Try my [Resume](/resume), and don't hesitate to
 [contact me](mailto:antonio.karlo@akmijares.ca) for any questions!
+
+![A picture with my dad at Mt. Mayon, Philippines](/img/about-me.jpeg)
+
+![A selfie with Linus Sebastian from Linus Tech Tips, LTX 2023](/img/about-me2.jpg)
