@@ -7,4 +7,4 @@ After seeing my high school friends talk about their PC builds, I thought to mys
 
 The CPU was an I5-4590, and the GPU was a R9380.
 
- ![First PC Build](/img/firstpc.jpg)
+ ![First PC Build](/img/project/firstpc.jpg)
