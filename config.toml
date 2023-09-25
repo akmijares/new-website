@@ -18,7 +18,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 
-enable_search = true
+enable_search = false
 enable_sidebar = false
 enable_adsense = false
 enable_multilingue = false
@@ -38,13 +38,13 @@ title = "akmijares"
 # Index page
 [extra.index]
 title = "Antonio Karlo Mijares"
-image = "img/home-page.jpg"
-image_alt = "Picture of Antonio Karlo Mijares"
+image = "img/avatar.png"
+image_alt = "Avatar of Antonio Karlo Mijares"
 
 [extra.default_author]
 name = "Antonio Karlo Mijares"
-avatar = "https://akmijares.ca/assets/img/home-page.jpg"
-avatar_alt = "Picture of Antonio Karlo Mijares"
+avatar = "/img/avatar.png"
+avatar_alt = "Avatar"
 
 [extra.social]
 github = "https://github.com/akmijares"
